@@ -1,0 +1,9 @@
+c:\users\p501\documents\visual studio 2017\Projects\notebook.cs\notebook.cs\bin\Debug\notebook.cs.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\notebook.cs\notebook.cs\bin\Debug\notebook.cs.exe
+c:\users\p501\documents\visual studio 2017\Projects\notebook.cs\notebook.cs\bin\Debug\notebook.cs.pdb
+c:\users\p501\documents\visual studio 2017\Projects\notebook.cs\notebook.cs\obj\Debug\notebook.cs.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\notebook.cs\notebook.cs\obj\Debug\notebook.cs.Form1.resources
+c:\users\p501\documents\visual studio 2017\Projects\notebook.cs\notebook.cs\obj\Debug\notebook.cs.Properties.Resources.resources
+c:\users\p501\documents\visual studio 2017\Projects\notebook.cs\notebook.cs\obj\Debug\notebook.cs.csproj.GenerateResource.Cache
+c:\users\p501\documents\visual studio 2017\Projects\notebook.cs\notebook.cs\obj\Debug\notebook.cs.exe
+c:\users\p501\documents\visual studio 2017\Projects\notebook.cs\notebook.cs\obj\Debug\notebook.cs.pdb
